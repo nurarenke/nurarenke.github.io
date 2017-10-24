@@ -164,9 +164,7 @@ body {
     font-weight: bold;
 }
 
-#about {
-    padding-top: 250px;  /*This is required to fix the first section-image*/
-}
+
 
 #intro-container {
     display: flex;
@@ -280,9 +278,7 @@ body {
         margin-bottom: 0;
     }
 
-    #about-image {
-        margin-top:50px;
-    }
+   
 
 }
 
