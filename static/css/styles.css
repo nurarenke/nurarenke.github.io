@@ -225,8 +225,13 @@ body {
     right: 0;
 }
 
-.portfolio-item-image {
-    height: 300px;
+#portfolio-item-first-image {
+    height:300px !important;
+
+}
+
+#portfolio-item-2nd-image {
+    height: 300px !important;
 
 }
 
