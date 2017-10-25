@@ -116,7 +116,7 @@ body {
 }
 
 #projects-image {
-    background: url(../img/code.png) no-repeat;
+    background: url(../img/code.jpeg) no-repeat;
     background-size: cover;
 }
 
@@ -287,7 +287,7 @@ body {
 
 }
 
-/*Make h2 eat.sleep.code.repeat text show on one line depending on screen size*/
+/*Make h2 learn everyday text show on one line depending on screen size*/
 @media (min-width:1061px) {
     .header h2 {
         display:block !important;
