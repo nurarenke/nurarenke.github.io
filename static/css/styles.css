@@ -225,6 +225,11 @@ body {
     right: 0;
 }
 
+.portfolio-item-image {
+    height: 300px;
+
+}
+
 #contact-form {
     margin-top: 50px;
 }
