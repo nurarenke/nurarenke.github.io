@@ -235,6 +235,8 @@ body {
 
 #portfolio-item-third-image {
     height: 300px !important;
+    display: block;
+    margin: auto;
 }
 
 #contact-form {
